@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**tezegolo/Tezegolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **tezegolo**, a passionate developer excited about coding and technology. I love building projects that make a difference!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm diving into software development and honing my skills in various programming languages. Based on my GitHub activity, I'm enthusiastic about creating applications that enhance user experiences.
+
+## Skills & Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=swift,nodejs,html,css,react,git,mysql&perline=8)](https://skillicons.dev)
+
+## Top Projects
+
+
+
+
+
+
+## GitHub Stats
+📊 **Public Repositories**: 2  
+👥 **Followers**: 0  
+🔗 **Following**: 0  
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=tezegolo&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tezegolo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Recent Activity
+
+- Created repository [Tezegolo](https://github.com/tezegolo/Tezegolo) on 2025-07-26  
+- Created repository [CookieStoreApp-](https://github.com/tezegolo/CookieStoreApp-) on 2025-06-18
+
+## Latest Blog Posts
+
+No blog posts available yet.
+
+## Connect with Me
+www.linkedin.com/in/tonyezegolo
