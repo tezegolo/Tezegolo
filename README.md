@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hey there, I'm Tony!</h1>
-<p align="center"><strong>Backend Developer | Data Explorer | Builder of Things</strong></p>
+<h1 align="center">Kedu, I'm Tony!</h1>
+<p align="center"><strong>FulLStack Developer | Backend Enthousiast | Data Explorer | Builder of Things</strong></p>
 
 <p align="center">
-  <em>🧠 Obsessed with clean logic | 🛠️ Driven by impact | 🔍 Always learning</em>
+  <em>🧠 Obsessed with clean logic | 🛠️ Driven by impact | 🔍 Always learning something intersting</em>
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 ## 🧵 My Dev Thread
 
-> 🎓 `CS Student @ [Your School Here]`  
+> 🎓 `COmputer Programming Student @ Seneca College`  
 > 🧰 `I build scalable APIs & backend systems`  
 > 📊 `Data wrangler | SQL, NoSQL, ETL pipelines`  
 > 🧪 `Fan of Swift, Node.js, Python, MongoDB`  
@@ -60,7 +60,7 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Top Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -68,6 +68,27 @@
 | [**College Admission App**](https://github.com/tezegolo/CollegeAdmissionApp) | A UIKit-based multi-screen app simulating college applications with feedback | Swift, UIKit |
 
 ---
+
+## Skills & Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=swift,nodejs,html,css,react,git,mysql&perline=8)](https://skillicons.dev)
+
+
+## GitHub Stats
+📊 **Public Repositories**: 2  
+👥 **Followers**: 0  
+🔗 **Following**: 0  
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=tezegolo&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tezegolo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Recent Activity
+
+- Created repository [Tezegolo](https://github.com/tezegolo/Tezegolo) on 2025-07-26  
+- Created repository [CookieStoreApp-](https://github.com/tezegolo/CookieStoreApp-) on 2025-06-18
+
+## Connect with Me
+www.linkedin.com/in/tonyezegolo
 
 ## 🔭 Now Learning / Building
 
