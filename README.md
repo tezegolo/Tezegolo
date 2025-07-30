@@ -17,10 +17,7 @@ Currently, I'm diving into software development and honing my skills in various 
 
 
 
-## GitHub Stats
-📊 **Public Repositories**: 2  
-👥 **Followers**: 0  
-🔗 **Following**: 0  
+## GitHub Stats  
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tezegolo&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tezegolo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
