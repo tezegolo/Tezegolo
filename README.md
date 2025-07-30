@@ -1,10 +1,10 @@
 ## Hi there! 👋
 
-I'm **tezegolo**, a passionate developer excited about coding and technology. I love building projects that make a difference!
+I'm **tezegolo**, a passionate developer excited about coding and technology. I love building projects that make a interest me!
 
 ## About Me
 
-Currently, I'm diving into software development and honing my skills in various programming languages. Based on my GitHub activity, I'm enthusiastic about creating applications that enhance user experiences.
+Currently, I'm diving into software development and honing my skills in various programming languages. I'm enthusiastic about creating applications that enhance user experiences.
 
 ## Skills & Technologies
 
@@ -30,9 +30,6 @@ Currently, I'm diving into software development and honing my skills in various 
 - Created repository [Tezegolo](https://github.com/tezegolo/Tezegolo) on 2025-07-26  
 - Created repository [CookieStoreApp-](https://github.com/tezegolo/CookieStoreApp-) on 2025-06-18
 
-## Latest Blog Posts
-
-No blog posts available yet.
 
 ## Connect with Me
 www.linkedin.com/in/tonyezegolo
