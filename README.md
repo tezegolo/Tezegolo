@@ -2,35 +2,12 @@
 <div align="center">
 <pre>
   
-                                                                   
-
-                                                                                       
-                                                                                       
-TTTTTTTTTTTTTTTTTTTTTTT     OOOOOOOOO     NNNNNNNN        NNNNNNNNYYYYYYY       YYYYYYY
-T:::::::::::::::::::::T   OO:::::::::OO   N:::::::N       N::::::NY:::::Y       Y:::::Y
-T:::::::::::::::::::::T OO:::::::::::::OO N::::::::N      N::::::NY:::::Y       Y:::::Y
-T:::::TT:::::::TT:::::TO:::::::OOO:::::::ON:::::::::N     N::::::NY::::::Y     Y::::::Y
-TTTTTT  T:::::T  TTTTTTO::::::O   O::::::ON::::::::::N    N::::::NYYY:::::Y   Y:::::YYY
-        T:::::T        O:::::O     O:::::ON:::::::::::N   N::::::N   Y:::::Y Y:::::Y   
-        T:::::T        O:::::O     O:::::ON:::::::N::::N  N::::::N    Y:::::Y:::::Y    
-        T:::::T        O:::::O     O:::::ON::::::N N::::N N::::::N     Y:::::::::Y     
-        T:::::T        O:::::O     O:::::ON::::::N  N::::N:::::::N      Y:::::::Y      
-        T:::::T        O:::::O     O:::::ON::::::N   N:::::::::::N       Y:::::Y       
-        T:::::T        O:::::O     O:::::ON::::::N    N::::::::::N       Y:::::Y       
-        T:::::T        O::::::O   O::::::ON::::::N     N:::::::::N       Y:::::Y       
-      TT:::::::TT      O:::::::OOO:::::::ON::::::N      N::::::::N       Y:::::Y       
-      T:::::::::T       OO:::::::::::::OO N::::::N       N:::::::N    YYYY:::::YYYY    
-      T:::::::::T         OO:::::::::OO   N::::::N        N::::::N    Y:::::::::::Y    
-      TTTTTTTTTTT           OOOOOOOOO     NNNNNNNN         NNNNNNN    YYYYYYYYYYYYY    
-                                                                                       
-                                                                                       
-                                                                                       
-                                                                                       
-                                                                                       
-                                                                                       
-                                                                                       
-   
-                                                                   
+___________________    _______  _____.___.
+\__    ___/\_____  \   \      \ \__  |   |
+  |    |    /   |   \  /   |   \ /   |   |
+  |    |   /    |    \/    |    \\____   |
+  |____|   \_______  /\____|__  // ______|
+                   \/         \/ \/       
 
 </pre>
 </div>
