@@ -24,12 +24,6 @@
                                                        \/____/                           
 </code></pre>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?lines=Kedu!+I'm+Tony;Welcome+to+my+space+on+the+web!" alt="Typing SVG" />
-  </a>
-</p>
-
 ---
 ## 👋 About Me
 Currently, I'm diving into software development and honing my skills in various programming languages. I'm passionate about building apps that deliver seamless, engaging user experiences.
@@ -75,21 +69,13 @@ Currently, I'm diving into software development and honing my skills in various 
 
 ---
 
-## 🚀 Badges
-![Build](https://img.shields.io/badge/build-passing-brightgreen)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue)
-![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
-![Profile Views](https://komarev.com/ghpvc/?username=tezegolo)
-
----
-
 <div align="center" style="display: grid; grid-template-columns: repeat(2, 320px); gap: 20px; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=tezegolo&show_icons=true&theme=radical" alt="GitHub stats" style="border-radius: 10px; width: 320px;" />
-  
-  <a href="https://github.com/anuraghazra/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tezegolo&theme=radical&hide_border=false&cache_seconds=1800&v=2" alt="GitHub streak stats" style="border-radius: 10px; width: 320px;" />
+
+ <a href="https://github.com/anuraghazra/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tezegolo&theme=dark&hide_border=false&cache_seconds=1800&v=2" alt="GitHub streak stats" style="border-radius: 10px; width: 320px;" />
   </a>
-  
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tezegolo&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px; width: 320px;" />
   
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" style="border-radius: 10px; width: 320px;" />
