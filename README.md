@@ -83,30 +83,6 @@ Currently, I'm diving into software development and honing my skills in various 
 
 ---
 
-<h3 align="center">📌 Pinned Projects</h3>
-
-<table align="center" width="90%" style="max-width: 800px;">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/tezegolo/The-Bean-Book" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tezegolo&repo=The-Bean-Book&theme=dark" alt="The Bean Book" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/tezegolo/Satellite-Detector" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tezegolo&repo=Satellite-Detector&theme=dark" alt="Satellite Detector" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/tezegolo/Capsrow-Landing-Page" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tezegolo&repo=Capsrow-Landing-Page&theme=dark" alt="Capsrow Landing Page" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🎯 Fun Facts About Me
 
 - 🕹️ Code ninja by night, coffee-fueled bug squasher and group leader by day.  
